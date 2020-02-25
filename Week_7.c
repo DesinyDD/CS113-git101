@@ -113,6 +113,6 @@
     ให้ใช้คำสั่ง 
         git clone <git-url>
     เช่น
-	    git clone https://github.com/saacsos/git101.git
+	    git clone https://github.com/DesinyDD/git101.git
     โดย git url หาได้จากปุ่ม Clone or download
     สามารถ clone public repository มาใช้งานได้ แต่จะ push ได้เฉพาะ repo ของตนเองเท่านั้น
